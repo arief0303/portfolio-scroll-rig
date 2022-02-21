@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  text-align: center;
+  border: 10vw solid #eee;
+}
+
+.SomeDomContent {
+  height: 60vw;
+}
